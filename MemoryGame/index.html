@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <title>Memory Game</title>
+    <!-- by Lars Knudsen (larsgk@gmail.com), 2011 -->
+    <meta name="viewport" content="width=1024, user-scalable=no" />
+    <script language="javascript" type="text/javascript" src="scripts/basic.js"></script>
+    <link rel="stylesheet" href="styles/basic.css" type="text/css" charset="utf-8"/>
+<style type="text/css" media="all and (orientation:portrait)"> 
+#infoarea {
+  z-index: -100;
+  opacity: 0.0;
+}
+</style> 
+<style type="text/css" media="all and (orientation:landscape)"> 
+#infoarea {
+  background-color: white;
+  color:      #2020a0;
+  position: absolute;
+  width: 96%;
+  height: 96%;
+  left: 2%;
+  top: 2%;
+  border: 1px solid #303000;
+  border-radius: 50px;
+  font-size: 30px;
+  margin: auto;
+  z-index: 100;
+  opacity: 1.0;
+}
+#gamearea {
+  opacity: 0.0;
+}
+</style> 
+  </head>
+  <body>
+    <div id="gamearea"><h1>Memory Game</h1><span id="tmpinfo"></span></div>
+    <div id="infoarea">
+      <h1>Memory Game</h1>
+      <p>Tap the cards with a finger to flip them around.  In each round, two cards must be flipped.
+      If you match two cards in the same round, they will give points and be taken out of the game.</p>
+      <p>Hold the device in portrait mode to play and landscape to see this message.</p>
+    </div>
+  </body>
+</html>
