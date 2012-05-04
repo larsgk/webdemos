@@ -50,7 +50,7 @@ function setInfo(text) {
 var cardsSelected = new Array();
 
 function writeTmpInfo(text) {
-   $("tmpinfo").innerHTML = text;
+   //$("tmpinfo").innerHTML = text;
 }
 
 function flipCard(event) {
