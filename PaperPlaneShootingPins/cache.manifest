@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# v 0.0.1
+ 
+index.html
+scripts/basic.js
+scripts/Skybox.js
+scripts/PaperPlane.js
+
+styles/basic.css
+ 
+images/inside_back.jpg
+images/inside_front.jpg
+images/inside_left.jpg
+images/inside_right.jpg
+images/inside_top.jpg
+images/inside_bottom.jpg
+ 
+images/planebody1.png
+images/planesiderudder1.png
+images/planesidetop1.png
+
+audio/fire.mp3
+audio/fire.ogg
+audio/reload.mp3
+audio/reload.ogg
+ 
+NETWORK:
+ 
+FALLBACK:
+ 
