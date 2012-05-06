@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="rocket.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3814">
+      <stop
+         style="stop-color:#8b8b8b;stop-opacity:1;"
+         offset="0"
+         id="stop3816" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="1"
+         id="stop3818" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3806">
+      <stop
+         style="stop-color:#5c70d2;stop-opacity:1;"
+         offset="0"
+         id="stop3808" />
+      <stop
+         style="stop-color:#5c8eff;stop-opacity:1;"
+         offset="1"
+         id="stop3810" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3794">
+      <stop
+         style="stop-color:#415f5f;stop-opacity:1;"
+         offset="0"
+         id="stop3796" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3798" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="linearGradient3800"
+       x1="456.42856"
+       y1="812.3622"
+       x2="504.99999"
+       y2="812.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-16)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="linearGradient3802"
+       x1="242.14285"
+       y1="812.3622"
+       x2="290.71428"
+       y2="812.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-16)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3794"
+       id="linearGradient3804"
+       x1="328.71426"
+       y1="760.21935"
+       x2="424.56189"
+       y2="760.21935"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(2,-16)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3806"
+       id="linearGradient3812"
+       x1="257.09689"
+       y1="469.81856"
+       x2="497.22148"
+       y2="469.81856"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="linearGradient3820"
+       x1="206.30894"
+       y1="574.10405"
+       x2="548.02385"
+       y2="574.10405"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="291.57841"
+     inkscape:cy="467.36209"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1032"
+     inkscape:window-height="633"
+     inkscape:window-x="123"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3802);fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3000"
+       width="38.57143"
+       height="97.14286"
+       x="249.14285"
+       y="747.79077"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <rect
+       y="747.79077"
+       x="463.42856"
+       height="97.14286"
+       width="38.57143"
+       id="rect3002"
+       style="fill:url(#linearGradient3800);fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <rect
+       style="fill:url(#linearGradient3804);fill-opacity:1;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3004"
+       width="85.847626"
+       height="201.42857"
+       x="335.71426"
+       y="643.50507"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       style="fill:url(#linearGradient3820);stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;fill-opacity:1"
+       d="m 277.14286,383.79077 c 24.05799,-32.47728 59.58354,-68.30728 100,-68.57143 39.48853,-0.25809 74.81972,34.16643 98.57143,65.71428 40.64002,53.97949 51.06795,126.4025 61.42857,193.17115 13.23223,85.27462 0,258.88544 0,258.88544 0,0 -98.33563,-92.85715 -160,-92.85715 -61.66437,0 -160,92.85715 -160,92.85715 0,0 -13.12633,-173.59446 0,-258.88544 10.11774,-65.74201 20.40704,-136.86518 60,-190.314 z"
+       id="rect2987"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="aaaacacaa"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       sodipodi:nodetypes="aaaacacaa"
+       inkscape:connector-curvature="0"
+       id="path2990"
+       d="m 307.76865,412.87784 c 16.69004,-9.71703 41.33561,-20.43718 69.37421,-20.51621 27.39486,-0.0772 51.90559,10.22241 68.38315,19.66136 28.19369,16.15038 35.42799,37.81896 42.61558,57.79579 9.17976,25.51371 0,77.45714 0,77.45714 0,0 -68.21956,-27.78236 -110.99873,-27.78236 -42.77917,0 -110.99873,27.78236 -110.99873,27.78236 0,0 -9.10629,-51.93854 0,-77.45714 7.0191,-19.66966 14.15722,-40.94934 41.62452,-56.94094 z"
+       style="fill:url(#linearGradient3812);stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;fill-opacity:1"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#7fdcdc;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path2992"
+       sodipodi:cx="246.42857"
+       sodipodi:cy="640.93359"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="18.571428"
+       d="m 255.71429,640.93359 a 9.2857141,18.571428 0 1 1 -18.57143,0 9.2857141,18.571428 0 1 1 18.57143,0 z"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       d="m 255.71429,640.93359 a 9.2857141,18.571428 0 1 1 -18.57143,0 9.2857141,18.571428 0 1 1 18.57143,0 z"
+       sodipodi:ry="18.571428"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="640.93359"
+       sodipodi:cx="246.42857"
+       id="path2994"
+       style="fill:#7fdcdc;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       sodipodi:type="arc"
+       transform="translate(0,77.142857)"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       d="m 255.71429,640.93359 a 9.2857141,18.571428 0 1 1 -18.57143,0 9.2857141,18.571428 0 1 1 18.57143,0 z"
+       sodipodi:ry="18.571428"
+       sodipodi:rx="9.2857141"
+       sodipodi:cy="640.93359"
+       sodipodi:cx="246.42857"
+       id="path2996"
+       style="fill:#7fdcdc;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       sodipodi:type="arc"
+       transform="translate(257.14286,0)"
+       inkscape:export-filename="/home/lgk/swork/demos/YAMLjs/MoonLander/path2998.png"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+    <path
+       transform="translate(257.14286,77.142857)"
+       sodipodi:type="arc"
+       style="fill:#7fdcdc;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       id="path2998"
+       sodipodi:cx="246.42857"
+       sodipodi:cy="640.93359"
+       sodipodi:rx="9.2857141"
+       sodipodi:ry="18.571428"
+       d="m 255.71429,640.93359 a 9.2857141,18.571428 0 1 1 -18.57143,0 9.2857141,18.571428 0 1 1 18.57143,0 z"
+       inkscape:export-xdpi="16.842056"
+       inkscape:export-ydpi="16.842056" />
+  </g>
+</svg>

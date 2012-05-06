@@ -1,0 +1,47 @@
+/* by Lars Knudsen (larsgk@gmail.com), 2010 */
+
+#infotext {
+    padding: 5px 0;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(10,10,10,0.9);
+    color: white;
+}
+
+#infodiv {
+    opacity: 1.0;
+    width: 90%;
+    top: 20px;
+    left: 5%;
+    height: 30px;
+    position: fixed;
+    -webkit-transition: opacity 0.5s linear;
+}
+
+.virtualTouchpad {
+    background-color: rgba(150,150,150,0.5);
+    border: 2px solid rgba(0,0,0,0.8);
+    cursor:crosshair;
+}
+
+.virtualTouchpad:active {
+    background-color: rgba(100,100,100,0.4);
+    border: 2px solid rgba(0,0,0,0.8);
+    cursor:crosshair;
+}
+
+.virtualTouchpadDot {
+    background-color: rgba(255,0,0,1.0);
+    border: 2px solid rgba(0,0,0,0.8);
+}
+
+
+#landingPad {
+    position: fixed;
+    width: 128px;
+    height: 10px;
+    bottom: 5px;
+    background-color: red;
+}

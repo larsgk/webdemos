@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Moon Lander</title>
+        <!-- by Lars Knudsen (larsgk@gmail.com), 2010 -->
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" href="MoonLander/basic.css" type="text/css"/>
+        <!-- Remember to include the library classes we will use -->
+        <script language="javascript" type="text/javascript" src="itk/VirtualTouchpad.js"></script>
+        <script language="javascript" type="text/javascript" src="itk/Sprite.js"></script>
+        <!-- Now include the main javascript code file -->
+        <script language="javascript" type="text/javascript" src="MoonLander/basic.js"></script>
+    </head>
+    <body onLoad="javascript:init();">
+        <!-- Landing Pad element.  This will be styled in the css and in init() inside basic.js -->
+        <div id="landingPad"></div>
+
+        <!-- Infotext element, where status messages, etc. will be injected -->
+        <div id="infodiv"><p id="infotext"></p></div>
+    </body>
+</html>
