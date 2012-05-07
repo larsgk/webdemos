@@ -1,0 +1,49 @@
+/* by Lars Knudsen (larsgk@gmail.com), June, 2011 */
+
+body {
+  background-color: black;
+}
+
+#dicetable {
+  margin: 0;
+  width: 80%;
+  height: 80%;
+  position: absolute;
+  top:10%;
+  left:10%;
+  background-color: #10a010;
+  -webkit-perspective: 800;
+  -webkit-animation-name: turncam;
+  -webkit-animation-duration: 12s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+}
+
+#credit {
+  margin:20px;
+  color: #ffffa0;
+  font-size: 40px;
+}
+
+
+#fpscount {
+  font-size: 30px;
+  color: white;
+  position: fixed;
+  width: 50px;
+  height: 30px;
+  left: 5px;
+  top: 5px;
+}
+
+@-webkit-keyframes y-spin {
+  0%    { -webkit-transform: translateZ(-2500px) rotateX(0deg) rotateY(0deg); }
+  50%   { -webkit-transform: translateZ(-500px) rotateX(360deg) rotateY(180deg); }
+  100%  { -webkit-transform: translateZ(-2500px) rotateX(0deg) rotateY(360deg); }
+}
+
+@-webkit-keyframes turncam {
+  0%    { -webkit-transform: rotateZ(0deg); }
+  50%   { -webkit-transform: rotateZ(180deg); }
+  100%  { -webkit-transform: rotateZ(360deg); }
+}
