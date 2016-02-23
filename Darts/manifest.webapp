@@ -1,0 +1,14 @@
+{
+  "name": "Darts",
+  "description": "Excellent Darts CSS3D, accelerometer demo",
+  "launch_path": "/index.html",
+  "icons": {
+    "192": "/icon.png",
+    "128": "/icon128.png"
+  },
+  "developer": {
+    "name": "Lars Knudsen",
+    "url": "http://www.empirikit.com"
+  },
+  "default_locale": "en"
+}
